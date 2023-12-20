@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tasks Application</string>
+    <string name="app_name_full">Tasks Management</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login_action">Login</string>
+    <string name="tasks">Tasks</string>
+    <string name="login_as_user">Logged as user</string>
+    <string name="address">Address:</string>
+    <string name="reporter">Reporter</string>
+    <string name="navigate">Navigate</string>
+</resources>
